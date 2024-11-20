@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tsukisama9292.github.io/sitemap.xml
+Sitemap: https://xuanyou-lin.us.kg/sitemap.xml
