@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>B.S. Student</p>
-    <p><a href='https://www.niu.edu.tw/'>Taiwan, National Ilan University</a></p>
+    <p><a href='https://www.niu.edu.tw/'>National Ilan University, Taiwan</a></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
