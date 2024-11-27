@@ -161,11 +161,11 @@
   // ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "K-12 Digital Education with AI and Digital Learning Games",
+      "summary": "K-12 Digital Education integrates AI learning assistants and Unity digital games to enhance the educational experience. AI learning assistants provide real-time responses to student inquiries, helping to resolve their doubts. Meanwhile, Unity digital games engage students, stimulating their learning and maintaining their motivation.",
+      "highlights": ["AI(LLM + Fine-Turn + RAG)", "Digital Education", "Unity Games", "Linux Server + Docker"],
+      "startDate": "2024-01-29",
+      "endDate": "NOW",
       "url": "https://k12edu.us.kg"
     }
   ]
