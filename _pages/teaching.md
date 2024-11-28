@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here is the public viewing link for the Canva presentation used for educational guidance.
+description: These are the public viewing links for the Canva presentations I used to guide my classmates, including both upperclassmen and underclassmen.
 nav: true
 nav_order: 6
 ---
