@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: <p>ClassProjects includes the projects I studied at school, including AI and other small projects.<p><p> Ubuntu-Guide contains an operating guide for Ubuntu (Linux), suitable for Linux beginners and Ubuntu users encountering issues.<p>
 nav: true
 nav_order: 4
 ---
